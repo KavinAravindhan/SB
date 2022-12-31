@@ -1,4 +1,4 @@
-#**BOOK HUB**#
+**BOOK HUB**
 
 This web application is developed to search books using API from **OpenLibrary** using **Javascript** and its functionalities.
 
